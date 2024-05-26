@@ -31,7 +31,7 @@ To run the script, make sure you have Python installed on your system. You can d
 Clone this repository to your local machine using:
 
 ```
-git clone https://github.com/your_username/data-structures-and-algorithms-python.git
+git clone https://github.com/amphitter/data-structures-and-algorithms-python.git
 ```
 
 ## Usage
